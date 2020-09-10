@@ -356,8 +356,8 @@ core.register_item(":unknown", {
 
 core.register_node(":air", {
 	description = "Air",
-	inventory_image = "air.png",
-	wield_image = "air.png",
+	inventory_image = "blank.png",
+	wield_image = "blank.png",
 	drawtype = "airlike",
 	paramtype = "light",
 	sunlight_propagates = true,
